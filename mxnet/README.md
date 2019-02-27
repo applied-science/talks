@@ -1,6 +1,6 @@
 # Talk: Deep Learning in Clojure with Apache MXNet 
 
-Presented at [ClojureD](https://clojured.de/) 2019 by [Dave](https://twitter.com/daveliepmann/).
+Presented at [ClojureD](https://clojured.de/) 2019 by [Dave](https://twitter.com/daveliepmann/). Browse the presentation live at https://www.daveliepmann.com/talks/mxnet/mxnet-clojured.html
 
 Made with [Pollen](https://docs.racket-lang.org/pollen/), so the presentation is a program written in lisp. If you're exploring, I recommend reading the Pollen docs first or in parallel. It is a great joy to write a talk as a Racket program that produces bog-standard HTML. Non-programmers and programmers alike should appreciate Pollen's top-notch, elegant documentation. Clojure programmers in particular can learn a lot from their lispy cousin Racket.
 
