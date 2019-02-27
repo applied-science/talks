@@ -26,7 +26,7 @@ I write in emacs using [Junsong Li's pollen-mode](https://github.com/lijunsong/p
 My emacs files include the following Pollen-specific config:
 
 ``` emacs-lisp
-    ;; For Pollen in Racket. See https://docs.racket-lang.org/pollen/pollen-command-syntax.html
+;; For Pollen in Racket. See https://docs.racket-lang.org/pollen/pollen-command-syntax.html
 (global-set-key "\M-/" "◊")
 
 (add-hook 'pollen-mode-hook
