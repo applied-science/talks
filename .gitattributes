@@ -1,0 +1,2 @@
+# Reclassify `.pm` files as Racket/Pollen:
+*.rb linguist-language=Java
