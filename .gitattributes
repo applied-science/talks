@@ -1,2 +1,3 @@
-# Reclassify `.pm` files as Racket/Pollen:
+# Prevent Pollen files from being interpreted as Perl or "OpenEdge ABL"
 *.pm linguist-language=Racket
+*.p linguist-language=Racket
