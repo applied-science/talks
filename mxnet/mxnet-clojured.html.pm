@@ -4,10 +4,11 @@
     ◊h3{tricking sand into ◊span[#:class "dal--tasks"]{thinking}}
     ◊h4{◊span[#:class "dal--highlight"]{deep learning} in clojure with ◊span[#:class "dal--highlight"]{apache mxnet}}
     ◊a[#:target "_blank" #:href "https://twitter.com/daisyowl/status/841802094361235456?lang=en"]{◊img[#:width "80%" #:src "images/tweet1.png"]{}}
-    ◊h4{
+    ◊h4[#:style "margin-bottom: 0px;"]{
         ◊span[#:style "vertical-align: middle; margin-right: 0.3em;"]{@daveliepmann}}
-        
-        ◊a[#:href "http://www.appliedscience.studio/"]{◊img[#:src "images/applied-inverse.svg" #:class "dal--no-border dal--no-bg" #:style "vertical-align: middle; display: inline;" #:width "12%"]}
+
+        ◊; Applied logo is 111111 because it is modified from orthodox background color of 181818
+        ◊a[#:href "http://www.appliedscience.studio/"]{◊img[#:src "images/applied-logomatic-111111.svg" #:class "dal--no-border" #:style "vertical-align: middle; display: inline;" #:width "16%"]}
     ◊speaker-notes{
         ◊p{I'm here to talk about deep learning in Clojure with Apache MXNet.}
         ◊p{MXNet is OSS DL framework for Python, Julia, Scala, aaaaaand now Clojure}
@@ -428,8 +429,7 @@
                 ◊li{◊a[#:href "https://openreview.net/pdf?id=rJWF0Fywf"]{Winner's Curse?} paper by Sculley, Snoek, Rahimi, Wiltschko}
                 ◊li{◊a[#:href "https://ml4a.github.io/ml4a/"]{Machine Learning for Artists}, Gene Kogan (MNIST example)}
                 ◊li{◊a[#:href "https://medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d"]{Backpropagation from the beginning}, Erik Hallström}}}
-        ◊h4[#:style "margin-top: 1em;"]{
-            ◊a[#:href "http://www.appliedscience.studio/"]{◊img[#:src "images/applied-inverse.svg" #:class "dal--no-border dal--no-bg" #:style "vertical-align: middle; display: inline;" #:width "17%"]}}}
+        ◊h4{◊a[#:href "http://www.appliedscience.studio/"]{◊img[#:src "images/applied-logomatic-111111.svg" #:class "dal--no-border" #:style "vertical-align: middle; display: inline;" #:width "35%"]}}}
 
     ◊;;;;;;;;;; EXTRAS
     ◊;;;;;;;;;; EXTRAS
